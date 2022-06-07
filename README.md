@@ -2,7 +2,7 @@
 ##
 - 🔭 Hoje trabalho com...
 - 🎮 Lives de games na Tiwtch
-- 🌱 Estudando: Back-end
+- 🌱 Estudando: Java na Alura
 - 👨‍🎓 Estou cursando Ciências da Computação
 ##
 <div align="center">
