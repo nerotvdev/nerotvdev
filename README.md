@@ -1,4 +1,4 @@
-### Olá! eu sou o Nero 👋
+### Olá! eu sou o Nero 👋 Um Desenvolvedor JAVA em desenvolvimento
 ##
 - 🔭 Hoje trabalho com...
 - 🎮 Lives de games na Tiwtch
