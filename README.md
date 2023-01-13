@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com...
 - 🎮 Lives de games na Tiwtch
 - 🌱 Estudando: Java na Alura
-- 👨‍🎓 Estou cursando Ciências da Computação
+- 👨‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas
 ##
 <div align="center">
   <a href="https://github.com/nerotvdev">
